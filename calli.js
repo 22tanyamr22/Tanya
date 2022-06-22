@@ -57,16 +57,16 @@ calli.on("message", message => {
       .setImage(`https://media.discordapp.net/attachments/829751738717306920/835146132023279616/image0.png`)
       .setDescription(`
 👑 OwnerCode 
-(Calli#0001,AMxSakran^#3799)
+(Calli#832718840424824832)
 🤖 Securitybots 
-(Anti Vandalism#6064)
+(Anti )
       `)
       .setThumbnail(`https://media.discordapp.net/attachments/829751738717306920/835145114519208017/image0.gif`)
     message.channel.send({ embed });
   }
 });
 ///////////////////////////////////////////////////////////////////////////////
-calli.login("")
+calli.login("OTg5MDUyNjc1ODUxMTgyMDgw.GT-ha1.oby4h0vTM04pwH0rBEzQ0DHStAVWRhiD4SJxT0")
 ///////////////////////////////////////////////////////////////////////////////
 const callienabled  = "";
 const callidisabled = "";
